@@ -5,8 +5,8 @@
 **StudentID** : 61070069
 **Name** : Tanachot Chirakitsakul
 
-> King mongkut's institute of technology ladkrabang
+> [King mongkut's institute of technology ladkrabang](https://www.kmitl.ac.th)
 
 ```sh
-print("hello world")
+print("Hello Ladkrabang")
 ```
